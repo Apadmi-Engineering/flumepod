@@ -1,3 +1,7 @@
+## 1.3.2
+
+ - **FIX**: Ignore pubspec lockfile ([#63](https://github.com/Apadmi-Engineering/mirage/issues/63)). ([1f209fb5](https://github.com/Apadmi-Engineering/mirage/commit/1f209fb5511c6b49dde84bfa53cad264f294603d))
+
 ## 1.3.1
 
  - **FIX**: Fix import prefixes for `dart:` imports ([#54](https://github.com/Apadmi-Engineering/mirage/issues/54)). ([48dd8319](https://github.com/Apadmi-Engineering/mirage/commit/48dd8319cdb900761c5bb92a91be86fbf3a0008d))
