@@ -59,4 +59,4 @@ Thumbs.db
 .fvm/
 example/android/local.properties
 
-pubspec.lock
+/pubspec.lock
